@@ -1,0 +1,3 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{258:function(d,o,e){"use strict";e.r(o);var a=function(){var t=this,m=t.$createElement,n=t._self._c||m;return n("div",{staticClass:"px-3 pt-6 pb-4 text-center hover:bg-white hover:shadow-md rounded-xl transition"},[n("NuxtImg",{staticClass:"w-16 h-16 mx-auto",attrs:{src:"/images/technologies/"+t.technology.image,alt:t.technology.name+" Logo"}}),t._v(" "),n("p",{staticClass:"mt-3 text-lg font-semibold text-gray-800 md:text-xl"},[t._v(`
+    `+t._s(t.technology.name)+`
+  `)])],1)},s=[],r=e(2),l=r.a.extend({props:{technology:{type:Object}}}),c=l,i=e(22),v=Object(i.a)(c,a,s,!1,null,null,null),g=o.default=v.exports}}]);
